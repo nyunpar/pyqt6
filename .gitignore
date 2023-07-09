@@ -1,0 +1,23 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyQt6 build artifacts
+build/
+dist/
+*.pro.user
+*.pro.user.*
+
+# macOS
+*.DS_Store
+
+# PyCharm files
+.idea/
+
+# PyInstaller build artifacts
+*.spec
+
+# Virtual environment
+qtvenv/
